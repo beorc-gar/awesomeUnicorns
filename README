@@ -1,0 +1,32 @@
+Group: 	Awesome Unicorns (Team #5)
+
+Names: 	David Buckley
+	Nisarg Dalvi
+	Aaron Gordon
+	Bronson Graansma
+    Kevin Dial
+    Harvir Sidhu
+    Babalakin Oyewumi
+    Adam Bibby
+	Lucas Steer
+	    
+Description:
+	- Awesome Unicorns is a reverse tower defence game where you are tasked with overcoming increasingly difficult
+	  odds by attempting to have enough unicorns reach the end of the level. Each level you will have a set
+	  amount of money with which to purchase your unicorns and a certain number of unicorns which need to
+	  reach the end of the level. It is up to YOU to determine which set of minions down which paths will
+	  assure victory and allow you to advance to the next level, eventually leading to the fourth and final level.
+
+Controls:
+	- Navigate the menus with the arrow keys or wasd.
+	- Select an option using the space key.
+	- During minion selection: press 'h' to bring up a help menu, press 'enter' to start the level
+	  with your currently purchased minions, or press 'q' to return to the main menu.
+	- During the simulation: use the left and right arrow keys to speed and slow down the game, respectively.
+
+Running the Game:
+	- Compile with command "make" from the main directory.
+	  - Alternatively, use the command "make cleanBuild" from the main directory to remove all '.o' and '.bin' files.
+	- Run with command "./bin/awesomeUnicorns" from the main directory.
+	- If it appears as though the game is not fully visible, resize the terminal window until you see a black border
+	  around the rest of the white content.
