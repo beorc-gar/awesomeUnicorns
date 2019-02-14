@@ -1,5 +1,5 @@
-#ifndef TOWER_H_GRAANSMA_BRONSON
-#define TOWER_H_GRAANSMA_BRONSON
+#ifndef TOWER_H_
+#define TOWER_H_
 
 #include <stdlib.h>
 #include "structs.h"
